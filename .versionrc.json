@@ -1,0 +1,26 @@
+{
+  "types": [
+    { "type": "feat", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "chore", "hidden": true },
+    { "type": "docs", "section": "Documentation" },
+    { "type": "style", "hidden": true },
+    { "type": "refactor", "hidden": true },
+    { "type": "perf", "section": "Performance Optimization" },
+    { "type": "test", "hidden": true }
+  ],
+  "bumpFiles": [
+    {
+      "filename": "rocketship.version.txt",
+      "type": "plain-text"
+    },
+    {
+      "filename": "rocketshi.version.json",
+      "type": "json"
+    },
+    {
+      "filename": "package.json",
+      "type": "json"
+    }
+  ]
+}
