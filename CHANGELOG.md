@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.2](https://github.com/playerx/release-test/compare/v1.5.1...v1.5.2) (2020-04-22)
+
+
+### Bug Fixes
+
+* bump configuration ([a53481c](https://github.com/playerx/release-test/commit/a53481c8aff6ff2c60ed6eb28a72936e3e1669ef))
+
 ### [1.5.1](https://github.com/playerx/release-test/compare/v1.5.0...v1.5.1) (2020-04-22)
 
 ## [1.5.0](https://github.com/playerx/release-test/compare/v1.4.0...v1.5.0) (2020-04-22)
