@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/playerx/release-test/compare/rocketship-v1.6.0...rocketship-v1.6.1) (2020-04-22)
+
+
+### Bug Fixes
+
+* delete test file ([ad8735b](https://github.com/playerx/release-test/commit/ad8735bb055252163785fae3e24028f5298c1a1d))
+
 ## 1.6.0 (2020-04-22)
 
 
