@@ -1,6 +1,6 @@
 {
   "name": "aaa",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
   "homepage": "https://github.com/playerx/release-test#readme",
   "standard-version": {
     "skip": {
-      "changelog": true,
-      "commit": true
+      "changelog": true
     }
   },
   "dependencies": {
