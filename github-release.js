@@ -1,8 +1,11 @@
 var conventionalGithubReleaser = require("conventional-github-releaser");
 
+console.log(process.env.GITHUB_TOKEN);
+
 var AUTH = {
   type: "oauth",
-  token: "77be4a084ccf9a1f86f23b25f954d29c71fdc662",
+  token: process.env.GITHUB_TOKEN,
+  url: "https://api.github.com",
 };
 
 conventionalGithubReleaser(
@@ -10,5 +13,7 @@ conventionalGithubReleaser(
   {
     preset: "angular",
   },
-  console.log
+  (x) => {
+    console.log(x);
+  }
 );
