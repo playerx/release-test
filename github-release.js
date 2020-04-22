@@ -13,7 +13,5 @@ conventionalGithubReleaser(
   {
     preset: "angular",
   },
-  (x) => {
-    console.log(x);
-  }
+  console.log
 );
