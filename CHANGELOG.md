@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.3](https://github.com/playerx/release-test/compare/v1.2.2...v1.2.3) (2020-04-22)
+
+
+### Bug Fixes
+
+* versionrc file ([dbd1c38](https://github.com/playerx/release-test/commit/dbd1c38e7ee12b3139e329f02092317413a00a42))
+
 ### [1.2.2](https://github.com/playerx/release-test/compare/v1.3.0...v1.2.2) (2020-04-22)
 
 
