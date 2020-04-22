@@ -1,1 +1,12 @@
-{}
+{
+    "bumpFiles": [
+    {
+      "filename": "rocketship.version.txt",
+      "type": "plain-text"
+    },
+    {
+      "filename": "rocketshi.version.json",
+      "type": "json"
+    }
+  ]
+}
