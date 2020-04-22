@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/playerx/release-test/compare/v1.4.0...v1.5.0) (2020-04-22)
+
+
+### Features
+
+* add bumpFiles configuration ([dd87f09](https://github.com/playerx/release-test/commit/dd87f093575cb46ac38c6f385c7f188f1c503a02))
+
 ## [1.4.0](https://github.com/playerx/release-test/compare/v1.2.3...v1.4.0) (2020-04-22)
 
 
